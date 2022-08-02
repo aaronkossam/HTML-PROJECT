@@ -1,0 +1,92 @@
+body{
+    font-family: 'Roboto', sans-serif;
+margin-left: 2rem;
+margin-right: 2rem;
+}
+
+
+.nav-flow{
+    display: flex;
+    flex-flow:row ;
+    gap: 9rem;
+    list-style-type: none;
+    justify-content: center;
+    margin-top: -2rem;
+    margin-right: 2rem;
+    
+  
+}
+h1{
+    font-size: 3rem;
+}
+
+.link{
+    text-decoration: none;
+    color: black;
+    font-size: 1.2rem;
+    font-weight: bold;
+
+}
+
+
+
+.link:hover{
+    color: blue;
+    text-decoration: underline;
+
+
+}
+
+.about{
+    display: grid;
+    grid-template-columns: 400px 600px;
+    margin-top: 3rem;
+    gap: 12rem;
+    margin-left: 19rem;
+    margin-right: 6rem;
+   
+}
+
+h1{
+    font-size: 3rem;
+}
+
+.fle-1{
+    font-size: 1rem;
+    line-height: 1.5rem;
+}
+
+button{
+    padding-right: 1.2rem;
+    padding-left: 1.2rem;
+    padding-top: 0.5rem;
+    padding-bottom: 0.5rem;
+    font-size: 1.6rem;
+    background-color: black;
+    color: white;
+}
+button:hover{
+    background-color: white;
+    color: black;
+    cursor: pointer;
+}
+
+
+
+h3{
+    text-align: center;
+    margin-top: 2rem;
+    font-size: 2rem;
+}
+
+.fum{
+    text-align: center;
+}
+
+.fumi{
+    text-align: center;
+font-size: 2rem;
+}
+h1{
+    just
+}
